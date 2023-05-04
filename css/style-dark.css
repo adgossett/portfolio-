@@ -113,7 +113,7 @@
 }
 
 
-/* 1.4. news IMG BACKGROUND */
+/*1.4. news IMG BACKGROUND 
 .post-box-photo-news-1 {
   background-image: url(../img/news/news-1.jpg);
 }
@@ -128,13 +128,13 @@
 
 .post-box-photo-news-4 {
   background-image: url(../img/news/news-4.jpg);
+}*/
+
+/*1.5. contact IMG BACKGROUND */
+.post-box-photo-contact {
+  background-image: url(../img/online.png);
 }
 
-/* 1.5. contact IMG BACKGROUND 
-.post-box-photo-contact {
-  background-image: url(../img/contact/contact.jpg);
-}
-*/
 
 /* 2. reset */
 html,
